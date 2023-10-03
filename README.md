@@ -9,7 +9,7 @@ I'm Hardik😉 I'm a developer who is passionate about exploring new Tech!
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>B.Tech Computer Science and Engineering degree</strong>.
-- 🔭 I’m currently working on <strong>Machine Learning</strong> and <strong>Deep Learning Projects</strong>.
+- 🔭 I’m currently working on <strong>Data Science</strong> and <strong>Machine Learning Projects</strong>.
 - 🌱 I’m currently learning <strong>Flutter</strong>.
 - 🤔 My research interests are with <strong>Data Science</strong>.
 - 💬 Feel free to discuss with me about <strong> resources for Coding and Placements</strong>.

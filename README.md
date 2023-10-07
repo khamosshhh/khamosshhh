@@ -45,3 +45,6 @@
 ## Some Significant Projects I've worked on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khamosshhh&theme=material-palenight&repo=GeekNavi)](https://github.com/khamosshhh/GeekNavi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khamosshhh&theme=material-palenight&repo=HuddleHub)](https://github.com/khamosshhh/HuddleHub)
+
+## Hacktoberfest 2023
+[![An image of @khamosshhh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khamosshhh)](https://holopin.io/@khamosshhh)
